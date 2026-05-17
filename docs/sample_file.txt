@@ -1,0 +1,13 @@
+# ACME CORP EMPLOYEE HANDBOOK - 2024
+
+## 1. Remote Work Policy
+Acme Corp allows employees to work remotely up to three days per week. Employees must coordinate their remote days with their direct supervisor to ensure team coverage. A home office stipend of $500 is provided to all full-time staff upon hiring to cover equipment costs like monitors and ergonomic chairs.
+
+## 2. Health and Wellness Benefits
+Our comprehensive health plan is managed by BlueShield. It includes 100% coverage for annual physicals and preventive care. Additionally, the company offers a "Mental Health Day" once per quarter, which does not count toward the employee's standard Paid Time Off (PTO) balance.
+
+## 3. Technology and Security
+All employees are required to use Multi-Factor Authentication (MFA) for all internal systems. Passwords must be updated every 90 days. For technical support, staff should email helpdesk@acmecorp.com or open a ticket via the internal Jira portal.
+
+## 4. Paid Time Off (PTO)
+New hires accrue 15 days of PTO per year, which increases to 20 days after three years of tenure. Unused PTO can be carried over to the next calendar year, but is capped at a maximum of 5 days.
